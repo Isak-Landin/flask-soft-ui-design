@@ -82,14 +82,16 @@ def register():
         agree_terms = request.form.get('agreeTerms')
 
         if not agree_terms:
-            flash("You have to agree to terms before continuing")
+            return render_template('accounts/register.html',
+                                   msg='User not created <a href="/login">login</a>',
+                                   success=True,
+                                   form=create_account_form)
 
         if agree_terms:
             # else we can create the user
             user = Users(**request.form)
             db.session.add(user)
             db.session.commit()
-            flash("User created")
 
         return render_template('accounts/register.html',
                                msg='User created please <a href="/login">login</a>',
