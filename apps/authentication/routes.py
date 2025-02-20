@@ -83,7 +83,7 @@ def register():
 
         if not agree_terms:
             return render_template('accounts/register.html',
-                                   msg_tos='You must agree to terms',
+                                   msg_tos='You must agree to <a href="#"terms</a>!',
                                    success=True,
                                    form=create_account_form)
 
