@@ -18,7 +18,7 @@ services:
     image: "nginx:latest"
     ports:
       - "5085:80"
-      - "5085:443"
+#      - "5086:443"
     volumes:
       - ./nginx:/etc/nginx/conf.d
     networks:
