@@ -17,7 +17,7 @@ services:
     restart: always
     image: "nginx:latest"
     ports:
-      - "5085:80"
+      - "80:80"
 #      - "5086:443"
     volumes:
       - ./nginx:/etc/nginx/conf.d
