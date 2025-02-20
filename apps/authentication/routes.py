@@ -80,7 +80,12 @@ def register():
 
         # Check ToS accepted
         agree_terms = request.form.get('check_tos')
-
+        agree_terms = [u'edit']
+        return render_template('accounts/register.html',
+                               msg_tos=agree_terms,
+                               success=False,
+                               form=create_account_form)
+        
         if not agree_terms:
             """
             return render_template('accounts/register.html',
@@ -88,10 +93,7 @@ def register():
                                    success=False,
                                    form=create_account_form)
             """
-            return render_template('accounts/register.html',
-                                   msg_tos=agree_terms,
-                                   success=False,
-                                   form=create_account_form)
+
 
         if agree_terms:
             # else we can create the user
