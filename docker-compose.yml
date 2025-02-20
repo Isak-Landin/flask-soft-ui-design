@@ -17,7 +17,7 @@ services:
     ports:
       - "5085:5085"
     volumes:
-      - ./nginx/appseed-app.conf:/etc/nginx/conf.d/appseed-app.conf  # Ensure Nginx uses correct config
+      - ./nginx:/etc/nginx/conf.d
     networks:
       - web_network
     depends_on:
