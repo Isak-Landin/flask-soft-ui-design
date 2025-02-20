@@ -8894,7 +8894,7 @@ textarea.form-control-lg {
 .form-check-error {
     font-size: 0.875rem;
     font-weight: 400;
-    font-color: red;
+    color: red;
 }
 
 .form-check-input {
