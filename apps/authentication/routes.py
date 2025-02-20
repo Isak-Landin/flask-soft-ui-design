@@ -89,7 +89,7 @@ def register():
                                    form=create_account_form)
             """
             return render_template('accounts/register.html',
-                                   msg_tos=agree_terms+"test",
+                                   msg_tos=agree_terms,
                                    success=False,
                                    form=create_account_form)
 
