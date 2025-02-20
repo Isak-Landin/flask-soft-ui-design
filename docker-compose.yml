@@ -6,6 +6,8 @@ services:
     restart: always
     env_file: .env
     build: .
+    ports:
+      - "5005:5005"  # Map host port to container port
     networks:
       - db_network
       - web_network
