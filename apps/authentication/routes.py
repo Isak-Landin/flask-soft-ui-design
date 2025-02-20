@@ -80,25 +80,17 @@ def register():
 
         # Check ToS accepted
         agree_terms = request.form.get('check_tos')
-        return render_template('accounts/register.html',
-                               msg_tos=agree_terms,
-                               success=False,
-                               form=create_account_form)
 
         if not agree_terms:
-            """
             return render_template('accounts/register.html',
                                    msg_tos='You must agree to <a href="#">terms</a>!',
                                    success=False,
                                    form=create_account_form)
-            """
 
-
-        if agree_terms:
-            # else we can create the user
-            user = Users(**request.form)
-            db.session.add(user)
-            db.session.commit()
+        # else we can create the user
+        user = Users(**request.form)
+        db.session.add(user)
+        db.session.commit()
 
         return render_template('accounts/register.html',
                                msg='User created please <a href="/login">login</a>',
