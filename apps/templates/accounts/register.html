@@ -49,7 +49,7 @@
                       {% endif %}
                     </label>
                     {% if msg_tos %}
-                      <p class="form-check-error">{{ msg_tos }}</p>
+                      <p class="form-check-error">{{ msg_tos | safe }}</p>
                     {% endif %}
                   </div>
                   <div class="text-center">
