@@ -93,7 +93,7 @@ def register():
         db.session.commit()
 
         return render_template('accounts/login.html',
-                               msg_created='User created please login',
+                               msg_created='User Created! - Please Login:',
                                success=True,
                                form=create_account_form)
 
