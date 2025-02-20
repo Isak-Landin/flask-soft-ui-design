@@ -20,7 +20,7 @@ services:
       - "5085:5085"
 
     volumes:
-      - ./nginx:/etc/nginx/sites-enabled/flask-soft-ui-design
+      - ./nginx:/etc/nginx/conf.d
     networks:
       - web_network
     depends_on:
