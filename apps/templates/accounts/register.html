@@ -42,14 +42,14 @@
                     {{ form.password(class="form-control form-control-lg", placeholder="Password", type="password") }}
                   </div>
                   <div class="form-check form-switch">
-                    <input class="form-check-input" type="checkbox" id="agreeTerms">
-                    <label class="form-check-label" for="agreeTerms" id="agreeTermsLabel">
+                    <input class="form-check-input" name="check_tos" type="checkbox" id="agreeTerms">
+                    <label class="form-check-label" for="agreeTerms">
                       {% if not msg_tos %}
                       Agree with <a href="#">terms</a>
                       {% endif %}
                     </label>
                     {% if msg_tos %}
-                      <label class="form-check-error">{{ msg_tos | safe }}</label>
+                      <label class="form-check-error" for="agreeTerms">{{ msg_tos | safe }}</label>
                     {% endif %}
                   </div>
                   <div class="text-center">
