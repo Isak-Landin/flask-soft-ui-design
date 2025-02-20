@@ -89,11 +89,12 @@ def register():
             user = Users(**request.form)
             db.session.add(user)
             db.session.commit()
+            flash("User created")
 
-            return render_template('accounts/register.html',
-                                   msg='User created please <a href="/login">login</a>',
-                                   success=True,
-                                   form=create_account_form)
+        return render_template('accounts/register.html',
+                               msg='User created please <a href="/login">login</a>',
+                               success=True,
+                               form=create_account_form)
 
     else:
         return render_template('accounts/register.html', form=create_account_form)
