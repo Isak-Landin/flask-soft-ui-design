@@ -17,10 +17,10 @@ services:
     restart: always
     image: "nginx:latest"
     ports:
-      - "80:80"
-#      - "5086:443"
+      - "5085:5085"
+
     volumes:
-      - ./nginx:/etc/nginx/conf.d
+      - ./nginx:/etc/nginx/sites-enabled/flask-soft-ui-design
     networks:
       - web_network
     depends_on:
