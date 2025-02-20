@@ -1,33 +1,28 @@
 version: '3.8'
-
 services:
   appseed-app:
     container_name: appseed_app
     restart: always
     env_file: .env
     build: .
-    ports:
-      - "5005:5005"  # Make Flask accessible inside Docker
     networks:
       - db_network
       - web_network
-
   nginx:
     container_name: nginx
     restart: always
     image: "nginx:latest"
     ports:
-      - "443:443" # Map public port 443 to container port 80 for HTTPS
-      - "80:80"   # Map public port 80 to container port 80 for HTTP
+      - "5085:5085"
     volumes:
-      - ./nginx/appseed-app.conf:/etc/nginx/conf.d/appseed-app.conf  # Ensure Nginx uses correct config
+      - ./nginx:/etc/nginx/conf.d
     networks:
       - web_network
-    depends_on:
+    depends_on: 
       - appseed-app
-
 networks:
   db_network:
     driver: bridge
   web_network:
     driver: bridge
+ 
