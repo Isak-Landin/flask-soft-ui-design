@@ -8891,6 +8891,12 @@ textarea.form-control-lg {
   font-size: 0.875rem;
   font-weight: 400; }
 
+.form-check-error {
+    font-size: 0.875rem;
+    font-weight: 400;
+    font-color: red;
+}
+
 .form-check-input {
   -webkit-appearance: none;
   appearance: none; }
