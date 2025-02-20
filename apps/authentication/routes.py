@@ -3,7 +3,7 @@
 Copyright (c) 2019 - present AppSeed.us
 """
 
-from flask import render_template, redirect, request, url_for
+from flask import render_template, redirect, request, url_for, flash
 from flask_login import (
     current_user,
     login_user,
@@ -78,15 +78,22 @@ def register():
                                    success=False,
                                    form=create_account_form)
 
-        # else we can create the user
-        user = Users(**request.form)
-        db.session.add(user)
-        db.session.commit()
+        # Check ToS accepted
+        agree_terms = request.form.get('agreeTerms')
 
-        return render_template('accounts/register.html',
-                               msg='User created please <a href="/login">login</a>',
-                               success=True,
-                               form=create_account_form)
+        if not agree_terms:
+            flash("You have to agree to terms before continuing")
+
+        if agree_terms:
+            # else we can create the user
+            user = Users(**request.form)
+            db.session.add(user)
+            db.session.commit()
+
+            return render_template('accounts/register.html',
+                                   msg='User created please <a href="/login">login</a>',
+                                   success=True,
+                                   form=create_account_form)
 
     else:
         return render_template('accounts/register.html', form=create_account_form)
