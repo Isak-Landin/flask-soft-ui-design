@@ -89,10 +89,10 @@ def register():
                                    form=create_account_form)
             """
             return render_template('accounts/register.html',
-                                   msg_tos=agree_terms,
+                                   msg_tos=agree_terms+"test",
                                    success=False,
                                    form=create_account_form)
-        
+
         if agree_terms:
             # else we can create the user
             user = Users(**request.form)
