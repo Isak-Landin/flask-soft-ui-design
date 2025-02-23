@@ -104,7 +104,7 @@ def register():
 @blueprint.route('/logout')
 def logout():
     logout_user()
-    return redirect(url_for('authentication_blueprint.route_default'))
+    return redirect(url_for('authentication_blueprint.login'))
 
 
 # Errors
