@@ -103,7 +103,7 @@ def register():
 
 @blueprint.route('/logout', methods=["GET",])
 def logout():
-    _current_user=current_user
+    _current_user = current_user.__repr__
     logout_user()
     # Make a simple pass to this method in order to inform $user that they have been logged out
     return render_template('accounts/logout.html', logout_msg=f"Thanks for visiting today {_current_user}!")
