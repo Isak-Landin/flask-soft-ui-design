@@ -101,10 +101,10 @@ def register():
         return render_template('accounts/register.html', form=create_account_form)
 
 
-@blueprint.route('/logout')
+@blueprint.route('/logout', methods=["GET",])
 def logout():
     logout_user()
-    return redirect(url_for('authentication_blueprint.route_default'))
+    return render_template('accounts/logout.html')
 
 
 # Errors
