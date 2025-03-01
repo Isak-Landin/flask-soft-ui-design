@@ -103,7 +103,7 @@ def register():
 
 @blueprint.route('/logout', methods=["GET",])
 def logout():
-    if not current_user:
+    if not current_user or not current_user.is_authenticated:
         return redirect(url_for('authentication_blueprint.login'))
 
     if current_user.is_authenticated:
