@@ -103,16 +103,15 @@ def register():
 
 @blueprint.route('/logout', methods=["GET",])
 def logout():
-    if current_user.is_authenticated:
-        _current_user = current_user.username
+    if current_user:
+        if current_user.is_authenticated:
+            _current_user = current_user.username
+            logout_user()
     else:
-        return redirect(url_for("authentication_blueprint.unauthorized_handler"))
+        return redirect(url_for("authentication_blueprint.route_default"))
 
-    logout_user()
     # Make a simple pass to this method in order to inform $user that they have been logged out
     return render_template('accounts/logout.html', logout_msg=f"Thanks for visiting today {_current_user}!")
-
-
 
 
 # Errors
