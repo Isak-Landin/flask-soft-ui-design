@@ -107,10 +107,10 @@ def logout():
         return redirect(url_for('authentication_blueprint.login'))
 
     if current_user.is_authenticated:
+        _current_username = current_user.username
         logout_user()
 
     # Make a simple pass to this method in order to inform $user that they have been logged out
-    _current_username = current_user.username
     return render_template('accounts/logout.html', logout_msg=f"Thanks for visiting today {_current_username}!")
 
 
