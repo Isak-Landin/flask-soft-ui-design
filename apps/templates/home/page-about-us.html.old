@@ -19,7 +19,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center mx-auto my-auto">
-            <h1 class="text-white">Work with Your own servers</h1>
+            <h1 class="text-white">Work with an amazing design</h1>
             <p class="lead mb-4 text-white opacity-8">We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game</p>
             <button type="submit" class="btn bg-white text-dark">Create Account</button>
             <h6 class="text-white mb-2 mt-5">Find us on</h6>
@@ -191,7 +191,7 @@
       <div class="row">
         <div class="col-md-8 text-left mb-5 mt-5">
           <h3 class="text-white z-index-1 position-relative">The Executive Team</h3>
-          <p class="text-white opacity-8 mb-0">There's only one person stopping you from learning. It's you</p>
+          <p class="text-white opacity-8 mb-0">There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill.</p>
         </div>
       </div>
       <div class="row">
@@ -201,15 +201,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/il.jpg">
+                    <img class="w-100 border-radius-md" src="/static/assets/img/kal-visuals-square.jpg">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Isak Landin</h5>
-                  <h6 class="text-info">Idea Developer</h6>
-                  <p class="mb-0">We all have ideas, I hope to make them real</p>
+                  <h5 class="mb-0">Emma Roberts</h5>
+                  <h6 class="text-info">UI Designer</h6>
+                  <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                 </div>
               </div>
             </div>
@@ -221,15 +221,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/il.jpg">
+                    <img class="w-100 border-radius-md" src="/static/assets/img/bruce-mars.jpg">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Isak Landin</h5>
-                  <h6 class="text-info">Person 2</h6>
-                  <p>This text will be here as a placeholder until it is certain whom will be presented here</p>
+                  <h5 class="mb-0">William Pearce</h5>
+                  <h6 class="text-info">Boss</h6>
+                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                 </div>
               </div>
             </div>
@@ -243,15 +243,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/il.jpg">
+                    <img class="w-100 border-radius-md" src="/static/assets/img/team-4.jpg">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Isak Landin</h5>
-                  <h6 class="text-info">Person 2</h6>
-                  <p>This text will be here as a placeholder until it is certain whom will be presented here</p>
+                  <h5 class="mb-0">Ivana Flow</h5>
+                  <h6 class="text-info">Athlete</h6>
+                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                 </div>
               </div>
             </div>
@@ -263,15 +263,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/il.jpg">
+                    <img class="w-100 border-radius-md" src="/static/assets/img/ivana-square.jpg">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Isak Landin</h5>
-                  <h6 class="text-info">Person 2</h6>
-                  <p>This text will be here as a placeholder until it is certain whom will be presented here</p>
+                  <h5 class="mb-0">Sophia Garcia</h5>
+                  <h6 class="text-info">JS Developer</h6>
+                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                 </div>
               </div>
             </div>
