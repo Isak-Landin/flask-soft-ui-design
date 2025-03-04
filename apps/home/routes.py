@@ -15,6 +15,8 @@ from siteinfo import SITEINFO
 def inject_site_variables():
     # Site specific variables imported to each template
     return dict(storage=SITEINFO)
+
+
 @blueprint.route('/index')
 @login_required
 def index():
