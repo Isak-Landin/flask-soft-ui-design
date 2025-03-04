@@ -9,6 +9,17 @@ from flask_login import login_required
 from jinja2 import TemplateNotFound
 
 
+# Added to act as a global register for names and variables for each specific site created
+@blueprint.context_processor
+def inject_site_variables():
+    # Site specific configurations
+    sitename = "HostNodex"
+    author = "Isak Landin"
+
+    return dict(
+        sitename=sitename,
+        author=author
+    )
 @blueprint.route('/index')
 @login_required
 def index():

@@ -5,15 +5,15 @@ Copyright (c) 2019 - present AppSeed.us
 
 import os, random, string
 
-class Config(object):
 
+class Config(object):
     basedir = os.path.abspath(os.path.dirname(__file__))
 
     # Assets Management
     ASSETS_ROOT = os.getenv('ASSETS_ROOT', '/static/assets')  
     
     # Set up the App SECRET_KEY
-    SECRET_KEY  = os.getenv('SECRET_KEY', 'Secr3t_55xA')    
+    SECRET_KEY  = os.getenv('SECRET_KEY', 'xrnU9QdYvLpqa9')
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
