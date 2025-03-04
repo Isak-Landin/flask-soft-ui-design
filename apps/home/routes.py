@@ -10,13 +10,6 @@ from jinja2 import TemplateNotFound
 from siteinfo import SITEINFO
 
 
-# Added to act as a global register for names and variables for each specific site created
-@blueprint.context_processor
-def inject_site_variables():
-    # Site specific variables imported to each template
-    return dict(storage=SITEINFO)
-
-
 @blueprint.route('/index')
 @login_required
 def index():

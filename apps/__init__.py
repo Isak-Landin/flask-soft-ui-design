@@ -10,6 +10,8 @@ from flask_login import LoginManager
 from flask_sqlalchemy import SQLAlchemy
 from importlib import import_module
 
+from siteinfo import SITEINFO
+
 
 db = SQLAlchemy()
 login_manager = LoginManager()
@@ -54,4 +56,11 @@ def create_app(config):
     register_extensions(app)
     register_blueprints(app)
     configure_database(app)
+
+    # Added to act as a global register for names and variables for each specific site created
+    @app.context_processor
+    def inject_site_variables():
+        # Site specific variables imported to each template
+        return dict(storage=SITEINFO)
+
     return app
