@@ -75,10 +75,6 @@ Coded by www.creative-tim.com
     {% include "includes/navigation.html" %}
 
     {% block content %}{% endblock content %}
-  
-    {% include "includes/footer.html" %}
-
-    {% include "includes/scripts.html" %}
 
   <!-- Specific JS goes HERE --> 
   {% block javascripts %}{% endblock javascripts %}
@@ -147,6 +143,9 @@ Coded by www.creative-tim.com
         fillColor: "rgba(255, 165, 52, .14)",
       });
     </script>
+
+    {% include "includes/footer.html" %}
+    {% include "includes/scripts.html" %}
 
 </body>
 </html>
