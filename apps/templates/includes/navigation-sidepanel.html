@@ -178,9 +178,12 @@
                 <div class="collapse" id="maps">
                   <ul class="nav nav-collapse">
                     <li>
+                      <!--
                       <a href="maps/googlemaps.html">
-                        <span class="sub-item">Google Maps</span>
-                      </a>
+                      -->
+                        <a href="{{ url_for('templates', filename='navigation-sidepanel.html') }}">
+                            <span class="sub-item">Google Maps</span>
+                        </a>
                     </li>
                     <li>
                       <a href="maps/jsvectormap.html">
