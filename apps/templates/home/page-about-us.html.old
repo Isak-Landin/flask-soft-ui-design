@@ -14,7 +14,7 @@
   <!-- End Navbar -->
   <!-- -------- START HEADER 7 w/ text and video ------- -->
   <header class="bg-gradient-dark">
-    <div class="page-header section-height-75" style="background-image: url('/static/assets/img/office-dark.jpg');">
+    <div class="page-header section-height-75" style="background-image: url('/static/static/dashboard_assets/img/office-dark.jpg');">
       <span class="mask bg-gradient-info opacity-8"></span>
       <div class="container">
         <div class="row justify-content-center">
@@ -201,7 +201,7 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/kal-visuals-square.jpg">
+                    <img class="w-100 border-radius-md" src="/static/static/dashboard_assets/img/kal-visuals-square.jpg">
                   </div>
                 </a>
               </div>
@@ -221,7 +221,7 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/bruce-mars.jpg">
+                    <img class="w-100 border-radius-md" src="/static/static/dashboard_assets/img/bruce-mars.jpg">
                   </div>
                 </a>
               </div>
@@ -243,7 +243,7 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/team-4.jpg">
+                    <img class="w-100 border-radius-md" src="/static/static/dashboard_assets/img/team-4.jpg">
                   </div>
                 </a>
               </div>
@@ -263,7 +263,7 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-0">
-                    <img class="w-100 border-radius-md" src="/static/assets/img/ivana-square.jpg">
+                    <img class="w-100 border-radius-md" src="/static/static/dashboard_assets/img/ivana-square.jpg">
                   </div>
                 </a>
               </div>
@@ -297,22 +297,22 @@
     <div class="container">
       <div class="row mb-7">
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-coinbase.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-coinbase.svg">
         </div>
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-nasa.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-nasa.svg">
         </div>
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-netflix.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-netflix.svg">
         </div>
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-pinterest.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-pinterest.svg">
         </div>
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-spotify.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-spotify.svg">
         </div>
         <div class="col-lg-2 col-md-4 col-6 mb-4">
-          <img class="w-100 opacity-7" src="/static/assets/img/logos/gray-logos/logo-vodafone.svg">
+          <img class="w-100 opacity-7" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-vodafone.svg">
         </div>
       </div>
       <div class="row justify-content-center text-center">
@@ -357,7 +357,7 @@
         </div>
         <div class="col-md-5 ms-auto">
           <div class="position-relative">
-            <img class="max-width-50 w-100 position-relative z-index-2" src="/static/assets/img/illustrations/sign-up.png">
+            <img class="max-width-50 w-100 position-relative z-index-2" src="/static/static/dashboard_assets/img/illustrations/sign-up.png">
           </div>
         </div>
       </div>
