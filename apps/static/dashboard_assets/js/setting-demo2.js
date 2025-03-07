@@ -72,9 +72,9 @@ $('.changeBackgroundColor').on('click', function(){
 function customCheckColor(){
 	var logoHeader = $('.logo-header').attr('data-background-color');
 	if (logoHeader !== "white") {
-		$('.logo-header .navbar-brand').attr('src', '../static/dashboard_assets/img/kaiadmin/logo_light.svg');
+		$('.logo-header .navbar-brand').attr('src', '../static/dashboard_assets/img/isakadmin/logo_light.svg');
 	} else {
-		$('.logo-header .navbar-brand').attr('src', '../static/dashboard_assets/img/kaiadmin/logo_dark.svg');
+		$('.logo-header .navbar-brand').attr('src', '../static/dashboard_assets/img/isakadmin/logo_dark.svg');
 	}
 }
 
