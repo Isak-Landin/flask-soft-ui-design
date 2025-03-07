@@ -10,7 +10,7 @@
 {% block content %}
 
   <header class="header-2">
-    <div class="page-header section-height-75 relative" style="background-image: url('/static/static/dashboard_assets/img/curved-images/curved.jpg')">
+    <div class="page-header section-height-75 relative" style="background-image: url('/static/assets/img/curved-images/curved.jpg')">
       <div class="container">
         <div class="row">
           <div class="col-lg-7 text-center mx-auto">
@@ -968,16 +968,16 @@
   <div class="col-12">
     <div class="avatar-group">
       <a href="javascript:;" class="avatar avatar-lg rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Ryan Tompson">
-        <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-1.jpg">
+        <img alt="Image placeholder" src="/static/assets/img/team-1.jpg">
       </a>
       <a href="javascript:;" class="avatar avatar-lg rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Romina Hadid">
-        <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-2.jpg">
+        <img alt="Image placeholder" src="/static/assets/img/team-2.jpg">
       </a>
       <a href="javascript:;" class="avatar avatar-lg rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Alexander Smith">
-        <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-3.jpg">
+        <img alt="Image placeholder" src="/static/assets/img/team-3.jpg">
       </a>
       <a href="javascript:;" class="avatar avatar-lg rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Jessica Doe">
-        <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+        <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
       </a>
     </div>
   </div>
@@ -995,16 +995,16 @@
   <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-12"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"avatar-group"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-lg rounded-circle"</span> <span class="na">data-bs-toggle=</span><span class="s">"tooltip"</span> <span class="na">data-bs-placement=</span><span class="s">"bottom"</span> <span class="na">title=</span><span class="s">"Ryan Tompson"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-1.jpg"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-1.jpg"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;/a&gt;</span>
       <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-lg rounded-circle"</span> <span class="na">data-bs-toggle=</span><span class="s">"tooltip"</span> <span class="na">data-bs-placement=</span><span class="s">"bottom"</span> <span class="na">title=</span><span class="s">"Romina Hadid"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-2.jpg"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-2.jpg"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;/a&gt;</span>
       <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-lg rounded-circle"</span> <span class="na">data-bs-toggle=</span><span class="s">"tooltip"</span> <span class="na">data-bs-placement=</span><span class="s">"bottom"</span> <span class="na">title=</span><span class="s">"Alexander Smith"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-3.jpg"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-3.jpg"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;/a&gt;</span>
       <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-lg rounded-circle"</span> <span class="na">data-bs-toggle=</span><span class="s">"tooltip"</span> <span class="na">data-bs-placement=</span><span class="s">"bottom"</span> <span class="na">title=</span><span class="s">"Jessica Doe"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;/a&gt;</span>
     <span class="nt">&lt;/div&gt;</span>
   <span class="nt">&lt;/div&gt;</span>
@@ -1049,19 +1049,19 @@
           <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" /><link href="https://unpkg.com/soft-ui-design-system@1.0.1/assets/css/soft-design-system.min.css" rel="stylesheet" /><div class="row text-center py-3 mt-3">
   <div class="col-12">
     <a href="javascript:;" class="avatar avatar-xs rounded-circle">
-      <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+      <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
     </a>
     <a href="javascript:;" class="avatar avatar-sm rounded-circle">
-      <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+      <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
     </a>
     <a href="javascript:;" class="avatar rounded-circle">
-      <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+      <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
     </a>
     <a href="javascript:;" class="avatar avatar-lg rounded-circle">
-      <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+      <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
     </a>
     <a href="javascript:;" class="avatar avatar-xl rounded-circle">
-      <img alt="Image placeholder" src="/static/static/dashboard_assets/img/team-4.jpg">
+      <img alt="Image placeholder" src="/static/assets/img/team-4.jpg">
     </a>
   </div>
 </div>
@@ -1077,19 +1077,19 @@
                       <figure class="highlight"><pre><code class="language-html" data-lang="html">  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row text-center py-3 mt-3"</span><span class="nt">&gt;</span>
   <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-12"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-xs rounded-circle"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
     <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-sm rounded-circle"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
     <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar rounded-circle"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
     <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-lg rounded-circle"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
     <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"avatar avatar-xl rounded-circle"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;img</span> <span class="na">alt=</span><span class="s">"Image placeholder"</span> <span class="na">src=</span><span class="s">"/static/assets/img/team-4.jpg"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
   <span class="nt">&lt;/div&gt;</span>
 <span class="nt">&lt;/div&gt;</span>
@@ -2170,7 +2170,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2 ms-lg-5">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuPages" data-bs-toggle="dropdown" aria-expanded="false">
             Pages
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <div class="dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuPages">
             <div class="d-none d-lg-block">
@@ -2209,7 +2209,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">
             Blocks
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuBlocks">
             <div class="d-none d-lg-block">
@@ -2225,7 +2225,7 @@
             <span class="text-sm">See all 109 sections</span>
           </div>
 
-          <img src="/static/static/dashboard_assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
+          <img src="/static/assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
         </div>
       </div>
     </a>
@@ -2315,7 +2315,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
             Docs
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg" aria-labelledby="dropdownMenuDocs">
             <div class="d-none d-lg-block">
@@ -2612,7 +2612,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2 ms-lg-5"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuPages"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Pages
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuPages"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -2651,7 +2651,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuBlocks"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Blocks
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuBlocks"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -2667,7 +2667,7 @@
             <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"text-sm"</span><span class="nt">&gt;</span>See all 109 sections<span class="nt">&lt;/span&gt;</span>
           <span class="nt">&lt;/div&gt;</span>
 
-          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
         <span class="nt">&lt;/div&gt;</span>
       <span class="nt">&lt;/div&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
@@ -2757,7 +2757,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuDocs"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Docs
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuDocs"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -3085,7 +3085,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuPages" data-bs-toggle="dropdown" aria-expanded="false">
             Pages
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <div class="dropdown-menu dropdown-menu-animation dropdown-xl p-3 border-radius-xl mt-0 mt-lg-3" aria-labelledby="dropdownMenuPages">
             <div class="d-none d-lg-block">
@@ -3124,7 +3124,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">
             Blocks
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuBlocks">
             <div class="d-none d-lg-block">
@@ -3140,7 +3140,7 @@
             <span class="text-sm">See all 109 sections</span>
           </div>
 
-          <img src="/static/static/dashboard_assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
+          <img src="/static/assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
         </div>
       </div>
     </a>
@@ -3230,7 +3230,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
             Docs
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg" aria-labelledby="dropdownMenuDocs">
             <div class="d-none d-lg-block">
@@ -3527,7 +3527,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuPages"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Pages
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-xl p-3 border-radius-xl mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuPages"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -3566,7 +3566,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuBlocks"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Blocks
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuBlocks"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -3582,7 +3582,7 @@
             <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"text-sm"</span><span class="nt">&gt;</span>See all 109 sections<span class="nt">&lt;/span&gt;</span>
           <span class="nt">&lt;/div&gt;</span>
 
-          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
         <span class="nt">&lt;/div&gt;</span>
       <span class="nt">&lt;/div&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
@@ -3672,7 +3672,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuDocs"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Docs
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuDocs"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -4002,7 +4002,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuPages" data-bs-toggle="dropdown" aria-expanded="false">
             Pages
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <div class="dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuPages">
             <div class="d-none d-lg-block">
@@ -4041,7 +4041,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">
             Blocks
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuBlocks">
             <div class="d-none d-lg-block">
@@ -4057,7 +4057,7 @@
             <span class="text-sm">See all 109 sections</span>
           </div>
 
-          <img src="/static/static/dashboard_assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
+          <img src="/static/assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
         </div>
       </div>
     </a>
@@ -4147,7 +4147,7 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
             Docs
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg" aria-labelledby="dropdownMenuDocs">
             <div class="d-none d-lg-block">
@@ -4447,7 +4447,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuPages"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Pages
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuPages"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -4486,7 +4486,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuBlocks"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Blocks
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuBlocks"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -4502,7 +4502,7 @@
             <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"text-sm"</span><span class="nt">&gt;</span>See all 109 sections<span class="nt">&lt;/span&gt;</span>
           <span class="nt">&lt;/div&gt;</span>
 
-          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
         <span class="nt">&lt;/div&gt;</span>
       <span class="nt">&lt;/div&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
@@ -4592,7 +4592,7 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuDocs"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Docs
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuDocs"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -4903,7 +4903,7 @@
                 <div class="tab-pane active" id="preview-nav-transparent">
                   <iframe width="100%" height="300px" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
           <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script><link href="https://unpkg.com/soft-ui-design-system@1.0.1/assets/css/soft-design-system.min.css" rel="stylesheet" /><div class="w-100" style="height: 100vh !important; background-image:url(/static/static/dashboard_assets/img/curved-images/curved5-small.jpg);background-size:cover;">
+          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script><link href="https://unpkg.com/soft-ui-design-system@1.0.1/assets/css/soft-design-system.min.css" rel="stylesheet" /><div class="w-100" style="height: 100vh !important; background-image:url(/static/assets/img/curved-images/curved5-small.jpg);background-size:cover;">
             <span class="mask bg-gradient-dark"></span>
             <!-- Navbar Transparent -->
 <nav
@@ -4924,8 +4924,8 @@
         <li class="nav-item dropdown dropdown-hover mx-2 ms-lg-6">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuPages" data-bs-toggle="dropdown" aria-expanded="false">
             Pages
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
           </a>
           <div class="dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuPages">
             <div class="d-none d-lg-block">
@@ -4964,8 +4964,8 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">
             Blocks
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3" aria-labelledby="dropdownMenuBlocks">
             <div class="d-none d-lg-block">
@@ -4981,7 +4981,7 @@
             <span class="text-sm">See all 109 sections</span>
           </div>
 
-          <img src="/static/static/dashboard_assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
+          <img src="/static/assets/img/down-arrow.svg" alt="down-arrow" class="arrow">
         </div>
       </div>
     </a>
@@ -5071,8 +5071,8 @@
         <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
             Docs
-            <img src="/static/static/dashboard_assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
-            <img src="/static/static/dashboard_assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
+            <img src="/static/assets/img/down-arrow-white.svg" alt="down-arrow" class="arrow ms-1 d-lg-block d-none">
+            <img src="/static/assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1 d-lg-none d-block">
           </a>
           <ul class="dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg" aria-labelledby="dropdownMenuDocs">
             <div class="d-none d-lg-block">
@@ -5371,8 +5371,8 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2 ms-lg-6"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuPages"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Pages
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-md p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuPages"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -5411,8 +5411,8 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuBlocks"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Blocks
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg dropdown-lg-responsive p-3 border-radius-lg mt-0 mt-lg-3"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuBlocks"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -5428,7 +5428,7 @@
             <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"text-sm"</span><span class="nt">&gt;</span>See all 109 sections<span class="nt">&lt;/span&gt;</span>
           <span class="nt">&lt;/div&gt;</span>
 
-          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow"</span><span class="nt">&gt;</span>
         <span class="nt">&lt;/div&gt;</span>
       <span class="nt">&lt;/div&gt;</span>
     <span class="nt">&lt;/a&gt;</span>
@@ -5518,8 +5518,8 @@
         <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown dropdown-hover mx-2"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center"</span> <span class="na">id=</span><span class="s">"dropdownMenuDocs"</span> <span class="na">data-bs-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
             Docs
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
-            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/static/dashboard_assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-white.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-block d-none"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/static/assets/img/down-arrow-dark.svg"</span> <span class="na">alt=</span><span class="s">"down-arrow"</span> <span class="na">class=</span><span class="s">"arrow ms-1 d-lg-none d-block"</span><span class="nt">&gt;</span>
           <span class="nt">&lt;/a&gt;</span>
           <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"dropdown-menu dropdown-menu-animation dropdown-lg mt-0 mt-lg-3 p-3 border-radius-lg"</span> <span class="na">aria-labelledby=</span><span class="s">"dropdownMenuDocs"</span><span class="nt">&gt;</span>
             <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"d-none d-lg-block"</span><span class="nt">&gt;</span>
@@ -6423,7 +6423,7 @@
 <header>
   <div class="page-header section-height-100">
     <div class="oblique position-absolute top-0 h-100 d-md-block d-none">
-      <div class="oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6" style="background-image:url(/static/static/dashboard_assets/img/curved-images/curved11.jpg)"></div>
+      <div class="oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6" style="background-image:url(/static/assets/img/curved-images/curved11.jpg)"></div>
     </div>
     <div class="container-fluid">
       <div class="row">
@@ -6451,7 +6451,7 @@
 <span class="nt">&lt;header&gt;</span>
   <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"page-header section-height-100"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"oblique position-absolute top-0 h-100 d-md-block d-none"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6"</span> <span class="na">style=</span><span class="s">"background-image:url(/static/static/dashboard_assets/img/curved-images/curved11.jpg)"</span><span class="nt">&gt;&lt;/div&gt;</span>
+      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6"</span> <span class="na">style=</span><span class="s">"background-image:url(/static/assets/img/curved-images/curved11.jpg)"</span><span class="nt">&gt;&lt;/div&gt;</span>
     <span class="nt">&lt;/div&gt;</span>
     <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"container-fluid"</span><span class="nt">&gt;</span>
       <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span><span class="nt">&gt;</span>
@@ -6872,26 +6872,26 @@
       <hr class="horizontal dark my-5">
       <div class="row">
         <div class="col-lg-2 col-md-4 col-6 ms-auto">
-          <img class="w-100 opacity-6" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-apple.svg" alt="Logo">
+          <img class="w-100 opacity-6" src="/static/assets/img/logos/gray-logos/logo-apple.svg" alt="Logo">
         </div>
         <div class="col-lg-2 col-md-4 col-6">
-          <img class="w-100 opacity-6" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-facebook.svg" alt="Logo">
+          <img class="w-100 opacity-6" src="/static/assets/img/logos/gray-logos/logo-facebook.svg" alt="Logo">
         </div>
         <div class="col-lg-2 col-md-4 col-6">
-          <img class="w-100 opacity-6" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-nasa.svg" alt="Logo">
+          <img class="w-100 opacity-6" src="/static/assets/img/logos/gray-logos/logo-nasa.svg" alt="Logo">
         </div>
         <div class="col-lg-2 col-md-4 col-6 ms-lg-0 ms-md-auto">
-          <img class="w-100 opacity-6" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-vodafone.svg" alt="Logo">
+          <img class="w-100 opacity-6" src="/static/assets/img/logos/gray-logos/logo-vodafone.svg" alt="Logo">
         </div>
         <div class="col-lg-2 col-md-4 col-6 me-md-auto mx-md-0 mx-auto">
-          <img class="w-100 opacity-6" src="/static/static/dashboard_assets/img/logos/gray-logos/logo-digitalocean.svg" alt="Logo">
+          <img class="w-100 opacity-6" src="/static/assets/img/logos/gray-logos/logo-digitalocean.svg" alt="Logo">
         </div>
       </div>
     </div>
   </section>
   <section class="py-sm-7" id="download-soft-ui">
     <div class="bg-gradient-dark position-relative m-3 border-radius-xl overflow-hidden">
-      <img src="/static/static/dashboard_assets/img/shapes/waves-white.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
+      <img src="/static/assets/img/shapes/waves-white.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
       <div class="container py-7 position-relative z-index-2 position-relative">
         <div class="row">
           <div class="col-md-7 mx-auto text-center">
@@ -6957,7 +6957,7 @@
         <div class="col-lg-5 col-md-8 order-2 order-md-2 order-lg-1">
           <div class="position-relative ms-lg-5 mb-0 mb-md-7 mb-lg-0 d-none d-md-block d-lg-block d-xl-block h-75">
             <div class="bg-gradient-primary w-100 h-100 border-radius-xl position-absolute d-lg-block d-none" alt=""></div>
-            <img src="/static/static/dashboard_assets/img/curved-images/curved11.jpg" class="w-100 border-radius-xl mt-6 ms-lg-5 position-relative z-index-5" alt="">
+            <img src="/static/assets/img/curved-images/curved11.jpg" class="w-100 border-radius-xl mt-6 ms-lg-5 position-relative z-index-5" alt="">
           </div>
         </div>
         <div class="col-lg-5 col-md-12 ms-auto order-1 order-md-1 order-lg-1">
